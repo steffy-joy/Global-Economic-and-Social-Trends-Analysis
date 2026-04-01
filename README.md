@@ -1,0 +1,1 @@
+# Global-Economic-and-Social-Trends-Analysis
