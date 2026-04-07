@@ -33,5 +33,3 @@ Through a combination of statistical plots, comparative charts, and interactive 
 - **Regional Gaps:** North America & Europe lead; Sub Saharan Africa & South Asia lag; middle income regions show steady progress.  
 - **Demographic Transition:** Low income countries face high birth/death rates; high income countries show stable or aging populations.  
 - **Global Trends:** GDP per capita rose steadily from 2000 to mid 2010s, then stabilized, with East Asia’s role growing significantly.
-
-# Global-Economic-and-Social-Trends-Analysis
